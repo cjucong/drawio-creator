@@ -1,0 +1,9 @@
+{
+  "id": "drawio-creator",
+  "name": "DrawIO Creator",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "创建和编辑DrawIO图表，使用外部DrawIO应用程序。",
+  "author": "AI Assistant",
+  "isDesktopOnly": true
+} 
